@@ -1,32 +1,223 @@
-h1 align="center">Hi 👋, I'm prakash prajapat</h1>
-<h3 align="center">from nagaur rajasthan and b.tech cse ai student at coding gita</h3>
+<!-- ========================= -->
 
-- 💬 Ask me about **strong interest in computer science and learn about computer**
+<!-- ⚡ PREMIUM PROFILE HEADER ⚡ -->
 
-- 📫 How to reach me **prakash.prajapat.cg@gmail.com**
+<!-- ========================= -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prakash prajapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash prajapat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prakashprajapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakashprajapat" height="30" width="40" /></a>
-</p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>## Hi there 👋
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%">
 
-<!--
-**Prakash Prajapat/Prakash Prajapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=700&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+PRAKASH+PRAJAPAT+😊" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✨ COMPUTER SCIENCE STUDENT ✨
 
-    
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⚡+WELCOME+TO+MY+CYBER+WORLD+⚡;💻+FUTURE+SOFTWARE+ENGINEER;🌐+WEB+DEVELOPER+IN+PROGRESS;🐍+PYTHON+LEARNER;🚀+BUILDING+THE+FUTURE+WITH+CODE" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=prakashprajapat2008&label=PROFILE+VISITORS&color=FFD700&style=for-the-badge" />
+
+</div>
+
+<br clear="both">
+
+---
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prakashprajapat2008/prakashprajapat2008/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+</div>
+
+
+
+# 💫 ABOUT ME
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🔭 Currently building my skills in **Web Development**
+
+🌱 Currently learning **Python Programming**
+
+💻 Exploring the world of **Software Development**
+
+🎨 Interested in **UI/UX Design using Figma**
+
+🚀 My goal is to become a **Professional Software Engineer**
+
+⚡ I believe in:
+
+> **Learn → Practice → Build → Improve → Repeat**
+
+<br clear="both">
+
+---
+
+# ⚡💛 TECHNOLOGY ARSENAL 💛⚡
+
+<div align="center">
+
+### 🚀 MY DEVELOPMENT TOOLKIT 🚀
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=dark" />
+
+</div>
+
+<br>
+
+---
+
+# 💻⚡ PROGRAMMING & DEVELOPMENT ⚡💻
+
+<div align="center">
+
+| 🌐 Frontend |  🐍 Programming | 🛠️ Tools |    🎨 Design    |
+| :---------: | :-------------: | :-------: | :-------------: |
+|     HTML    |      Python     |    Git    |      Figma      |
+|     CSS     |  Learning More  |   GitHub  |      UI/UX      |
+|  JavaScript | Problem Solving |  VS Code  | Creative Design |
+
+</div>
+
+---
+
+# 📊⚡ GITHUB ANALYTICS ⚡📊
+
+<div align="center">
+
+### 🚀 MY GITHUB JOURNEY IN NUMBERS 🚀
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakashprajapat2008&theme=radical" width="95%">
+
+<br><br>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakashprajapat2008&theme=radical">
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakashprajapat2008&theme=radical&utcOffset=5.5">
+
+</div>
+
+---
+
+# 💻🔥 MOST USED LANGUAGES 🔥💻
+
+<div align="center">
+
+### 📈 MY CODING LANGUAGE ANALYTICS 📈
+
+<br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prakashprajapat2008&theme=radical">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prakashprajapat2008&theme=radical">
+
+</div>
+
+---
+
+# 📈⚡ GITHUB PERFORMANCE ⚡📈
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakashprajapat2008&theme=radical&hide_border=false&hide=contribs,stars&show_icons=true&show=prs_merged,prs_merged_percentage">
+
+<img height="180em" src="https://github-readme-streak-stats-nu-snowy.vercel.app?user=prakashprajapat2008&theme=radical">
+
+</div>
+
+---
+
+
+
+
+
+
+---
+
+# 🎯⚡ CURRENT MISSION ⚡🎯
+
+<div align="center">
+
+```text
+🎯 MASTER WEB DEVELOPMENT
+        ↓
+🐍 IMPROVE PYTHON SKILLS
+        ↓
+🧠 PRACTICE PROBLEM SOLVING
+        ↓
+💻 BUILD AMAZING PROJECTS
+        ↓
+🚀 BECOME A SOFTWARE ENGINEER
+```
+
+</div>
+
+---
+
+
+
+<br><br>
+
+
+
+---
+
+# 🌟⚡ MY DEVELOPER QUOTE ⚡🌟
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
+</div>
+
+---
+
+# 🤝⚡ CONNECT WITH ME ⚡🤝
+
+<div align="center">
+
+<a href="www.linkedin.com/in/prakash-prajapat-5ba134427">
+<img src="https://img.shields.io/badge/LinkedIn-PRAKASH%20PRAJAPAT-FFD700?style=for-the-badge&logo=linkedin&logoColor=black">
+</a>
+
+<a href="https://leetcode.com/u/prakashprajapat2008/">
+<img src="https://img.shields.io/badge/LeetCode-prakashprajapat2008-FFD700?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="mailto:prakash.prajapat.cg@gmail.com">
+<img src="https://img.shields.io/badge/Email-CONTACT%20ME-FFD700?style=for-the-badge&logo=gmail&logoColor=black">
+</a>
+
+</div>
+
+---
+
+# 💬⚡ LET'S BUILD THE FUTURE ⚡💬
+
+<div align="center">
+
+### 💻 Code • 🚀 Build • 🌱 Learn • 🔥 Improve
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=THANKS+FOR+VISITING+MY+PROFILE!+✨;KEEP+LEARNING+AND+KEEP+BUILDING!+🚀;THE+FUTURE+IS+BUILT+WITH+CODE+💻" />
+
+<br><br>
+
+### ⭐ If you like my profile, consider giving my repositories a star!
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=prakashprajapat2008&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge">
+
+</div>
+
+<!-- ========================= -->
+
+<!-- ⚡ END OF PROFILE README ⚡ -->
+
+<!-- ========================= -->
