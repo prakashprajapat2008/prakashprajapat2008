@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=700&color=EBA60E&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+PRAKASH+PRAJAPAT+😊" alt="Typing SVG" />
 
-# ✨ COMPUTER SCIENCE STUDENT ✨
+# ✨ Hi there! 👋 I'm a B.Tech CSE (AI) student ✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=⚡+WELCOME+TO+MY+CYBER+WORLD+⚡;💻+FUTURE+SOFTWARE+ENGINEER;🌐+WEB+DEVELOPER+IN+PROGRESS;🐍+PYTHON+LEARNER;🚀+BUILDING+THE+FUTURE+WITH+CODE" />
 
