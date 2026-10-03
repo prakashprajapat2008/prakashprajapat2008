@@ -93,13 +93,21 @@
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prakashprajapat2008&theme=radical" width="95%">
+[![Prakash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prakashprajapat2008&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br><br>
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prakashprajapat2008&theme=radical">
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prakashprajapat2008&theme=radical&utcOffset=5.5">
+<p align="left">
+  <!-- Left Card: GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=prakashprajapat2008&show_icons=true&theme=react&hide_rank=true&hide_border=true&card_width=400" style="height: 195px; width: 48%; object-fit: contain;" alt="GitHub Stats" />
+  </a>
+  
+  <!-- Right Card: Top Languages (Bar Graph) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashprajapat2008&theme=react&hide_border=true&card_width=400" style="height: 195px; width: 48%; object-fit: contain;" alt="Top Languages" />
+  </a>
+</p>
 
 </div>
 
